@@ -1,9 +1,0 @@
-{
-	"type": "Live2D Model Setting",
-	"name": "方源live2d-2",
-	"model": "方源live2d-2.moc",
-        "DisplayInfo": "方源live2d-2.cdi3.json",
-	"textures": [
-		"方源live2d-2.1024/texture_00.png"
-	]
-}
