@@ -1,0 +1,8 @@
+{
+	"type": "Live2D Model Setting",
+	"name": "方源live2d-3",
+	"model": "方源live2d-3.moc",
+	"textures": [
+		"方源live2d-3.1024/texture_00.png"
+	]
+}
